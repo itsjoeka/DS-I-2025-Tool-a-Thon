@@ -1,5 +1,2 @@
-<div align="center"
-  # DS-I Conference 2025 Tool-a-Thon 
-  ## Team Yellow
-</div>
+<h1 align="center" DS-I Conference 2025 Tool-a-Thon - Team Yellow </h1>
 
